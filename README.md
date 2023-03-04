@@ -1,2 +1,2 @@
 # Omnifood-Project
-View the site [here](https://nimble-blancmange-f28844.netlify.app/) 
+View the site [here](omni-food-anubhav.netlify.app) 

@@ -1,2 +1,2 @@
 # Omnifood-Project
-Responsive website using HTML and CSS
+View the site [here](https://nimble-blancmange-f28844.netlify.app/) 
